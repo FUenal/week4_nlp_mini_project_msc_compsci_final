@@ -81,7 +81,7 @@ The notebook includes accuracy scores, confusion matrices, and classification re
 
 ### 📸 Kaggle Submission
 
-![Kaggle Leaderboard Screenshot](kaggle_score.png)
+![Kaggle Leaderboard Screenshot](kaggle-score.png)
 
 > *(Replace with actual path in your repo.)*
 
